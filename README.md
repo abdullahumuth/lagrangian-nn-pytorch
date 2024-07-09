@@ -9,7 +9,7 @@ This project focuses on the use of Lagrangian Neural Networks (LNNs) [Cranmer et
  
  The study leverages the principles of classical mechanics and deep learning to construct and validate models that can effectively capture the dynamics of these systems.
 
- The code for this project is available on [Github](https://github.com/Ultiminati/lagrangian-nn-pytorch).
+ The code for this project is available on [Github](https://github.com/abdullahumuth/lagrangian-nn-pytorch).
 
  by Abdullah Umut Hamzaoğulları
 
