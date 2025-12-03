@@ -1,3 +1,7 @@
+# Update
+
+I continued developing a more advanced, more modular LNN PyTorch implementation and [here is the link](https://github.com/abdullahumuth/hessian_regularized_lnn).
+
 
 # Lagrangian Neural Networks & Symbolic Regression
 
